@@ -16,10 +16,11 @@ Features
     |__|__||_____||__|__|    |_____| \__,_||___|___||__| |_____||__|\_|
 
 Currently IN DEVELOPEMENT as I work, fix and improve the code.
-Some future features include
-    - More CLI Features
-    - Manipulation of bytes
-    - Others
+Some future features include:
+
+- More CLI Features
+- Manipulation of bytes
+- Others
 
 ## Getting Started
 
