@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=52F785&random=false&width=435&lines=Hi%F0%9F%91%8B+I'm+Tev!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=52F785&random=false&width=435&lines=HEX+DUMPER)](https://git.io/typing-svg)
 
 
 A tool for dumping hexadecimal content from files.
