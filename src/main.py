@@ -1,7 +1,6 @@
 import argparse
 
-
-def Main():
+def Main():                                                        
     parser = argparse.ArgumentParser()
     parser.add_argument("file", help="Input a file")
     parser.add_argument(
