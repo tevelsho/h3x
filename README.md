@@ -41,7 +41,7 @@ Some future features include:
 
 ## Example
 
-    python main.py input.txt -o
+    python3 main.py test.png -o
 
     00000000: 48 65 6C 6C 6F 20 57 6F | 72 6C 64 21 0A 54 68 69 | Follow my GH!..}
     00000010: 73 20 69 73 20 61 20 74 | 65 73 74 20 66 69 6C 65 | N.@.k}w.._..l...
