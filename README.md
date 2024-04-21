@@ -1,10 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=52F785&random=false&width=435&lines=HEX+DUMPER)](https://git.io/typing-svg)
-
+# HEX DUMPER
 
 A tool for dumping hexadecimal content from files.
-Features
-
-    Dump hexadecimal content from a file and prints output to the terminal
 
 ## Upcoming features 
 
@@ -21,9 +17,8 @@ Some future features include:
 
 - More CLI Features
 - Manipulation of bytes
-- Others
 
-## Getting Started
+## Installation
 
 1. Clone the repository:
 
