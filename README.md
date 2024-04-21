@@ -1,20 +1,20 @@
-# HEX DUMPER
+# h3x
 
 A tool for dumping hexadecimal content from files.
 
 ## ⭐ Upcoming features
 
-    __ __    ___  __ __      ___    __ __  ___ ___  ____   ___  ____  
-    |  |  |  /  _]|  |  |    |   \  |  |  ||   |   ||    \ /  _]|    \ 
-    |  |  | /  [_ |  |  |    |    \ |  |  || _   _ ||  o  )  [_ |  D  )
-    |  _  ||    _]|_   _|    |  D  ||  |  ||  \_/  ||   _/    _]|    / 
-    |  |  ||   [_ |     |    |     ||  :  ||   |   ||  | |   [_ |    \ 
-    |  |  ||     ||  |  |    |     ||     ||   |   ||  | |     ||  .  \
-    |__|__||_____||__|__|    |_____| \__,_||___|___||__| |_____||__|\_|
+         _     ____       
+        | |   |___ \      
+        | |__   __) |_  __
+        | '_ \ |__ <\ \/ /
+        | | | |___) |>  < 
+        |_| |_|____//_/\_\
+                   
+                   
 
-Currently IN DEVELOPEMENT as I work, fix and improve the code.  
+Currently **IN DEVELOPEMENT** as I work, fix and improve the code.  
 Some future features include:
-
 - More CLI Features
 - Manipulation of bytes
 
