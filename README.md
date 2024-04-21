@@ -20,24 +20,24 @@ Some future features include:
 
 ## Installation
 
+
 1. Clone the repository:
 
         git clone https://github.com/trevelling/hexDumper.git
 
-2. Navigate to the project directory:
+2. Install the dependencies:
 
-        cd hexDumper
+        pip install -r requirements.txt
+
+3. Run the application:
+
+        python3 app.py <file_path> [-o | --output]
 
 ## Usage
 
-        python main.py <file_path> [-o | --output]
-
-        <file_path>: Path to the input file.
-        -o, --output: Print output to the terminal.
-
 ## Example
 
-    python3 main.py test.png -o
+    python3 app.py test.png -o
 
     00000000: 48 65 6C 6C 6F 20 57 6F | 72 6C 64 21 0A 54 68 69 | Follow my GH!..}
     00000010: 73 20 69 73 20 61 20 74 | 65 73 74 20 66 69 6C 65 | N.@.k}w.._..l...

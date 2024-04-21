@@ -1,6 +1,5 @@
 import argparse
 
-
 def Main():
     parser = argparse.ArgumentParser(
         description="Hex Dumper is a versatile tool for dumping the hexadecimal content of files, offering additional features for enhanced functionality."
