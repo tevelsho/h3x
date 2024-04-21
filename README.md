@@ -2,7 +2,7 @@
 
 A tool for dumping hexadecimal content from files.
 
-## Upcoming features 
+## ⭐ Upcoming features
 
     __ __    ___  __ __      ___    __ __  ___ ___  ____   ___  ____  
     |  |  |  /  _]|  |  |    |   \  |  |  ||   |   ||    \ /  _]|    \ 
@@ -28,7 +28,7 @@ Some future features include:
 
         cd hexDumper
 
-3. Running the programme
+## Usage
 
         python main.py <file_path> [-o | --output]
 
